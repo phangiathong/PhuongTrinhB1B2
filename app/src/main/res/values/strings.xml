@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TH2-Phan Gia Thong</string>
+    <string name="layou_ptb1">AX + B = 0</string>
+    <string name="layou_ptb2">AX^2 + BX + C = 0</string>
+</resources>
